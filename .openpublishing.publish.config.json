@@ -17,9 +17,9 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "doc",
-      "build_source_folder": "doc",
-      "build_output_subfolder": "doc",
+      "docset_name": "docs",
+      "build_source_folder": "docs",
+      "build_output_subfolder": "docs",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
